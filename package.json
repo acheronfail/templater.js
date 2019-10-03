@@ -1,0 +1,27 @@
+{
+  "name": "@acheronfail/templater.js",
+  "version": "0.1.0",
+  "description": "A super simple file templater",
+  "main": "index.js",
+  "bin": {
+    "templater": "index.js"
+  },
+  "scripts": {
+    "publish": "npm public --access public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acheronfail/templater.js.git"
+  },
+  "keywords": [
+    "template",
+    "nodejs"
+  ],
+  "author": "acheronfail",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acheronfail/templater.js/issues"
+  },
+  "homepage": "https://github.com/acheronfail/templater.js#readme"
+}
