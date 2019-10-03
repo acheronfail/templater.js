@@ -1,0 +1,8 @@
+# @acheronfail/templater.js
+
+This is a super simple templating tool.
+
+It walks the given directly, and replaces all `%{VAR_NAME}` style interpolations
+with variables from the environment (for example, `%{VAR_NAME}` would be replaced
+with whatever `VAR_NAME` is in the environment).
+
