@@ -1,6 +1,6 @@
 {
   "name": "@acheronfail/templater.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A super simple file templater",
   "main": "index.js",
   "bin": {
